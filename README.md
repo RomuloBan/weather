@@ -1,5 +1,6 @@
-# ReduxSimpleStarter
+# Weather
 
+A simple weather app made with React/Redux
 
 
 ###Getting Started###
